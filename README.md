@@ -91,10 +91,39 @@ information.
     
 ## Dashboard
 ### Page 1 --- HR Analytics | Overview <br/>
-https://github.com/Akku017/HR-Analytics-Dashboard/blob/main/page%201%20HR%20Analytics%20%20Overview.png
+<img width="1320" height="742" alt="page 1 HR Analytics  Overview" src="https://github.com/user-attachments/assets/de03a9b4-90d3-4899-8555-3ce70664ac51" />
+
 
 ### Page 2 --- HR Analytics | Employee Analysis<br/>
-https://github.com/Akku017/HR-Analytics-Dashboard/blob/main/page%202%20Employee%20Analysis.png
+<img width="1321" height="745" alt="page 2 Employee Analysis" src="https://github.com/user-attachments/assets/7845740c-39e6-4844-a7bb-5bd8339f6a9b" />
 
 ### Page 3 --- HR Analytics | Attrition & Recruitment<br/>
-https://github.com/Akku017/HR-Analytics-Dashboard/blob/main/page%203%20%20Attrition%20%26%20Recruitment.png
+<img width="1325" height="743" alt="page 3  Attrition   Recruitment" src="https://github.com/user-attachments/assets/c0f9b33e-b9d1-4ed5-9a86-4b9a01a54a44" />
+
+## Key Insights
+
+-   The dataset contains **311 employees**, of whom **207 are active**
+    in the dashboard.
+-   **Production** is the largest department, with **209 employees**.
+-   **Production Technician I** is the most common job position, with
+    **137 employees**.
+-   The dashboard reports an attrition rate of **33.44%** and **104
+    total terminations**.
+-   Voluntary terminations account for **88** of the 104 total
+    terminations; **16** are classified as terminated for cause.
+-   Department termination percentages vary, with Production shown at
+    **39.71%** and Software Engineering at **36.36%**.
+-   **Indeed (87)** and **LinkedIn (76)** are the most frequently
+    displayed recruitment sources.
+-   Department-level satisfaction and engagement values differ,
+    providing areas for further HR investigation.
+
+
+## Conclusion
+
+The HR Analytics Dashboard brings together workforce overview, employee
+demographics, departmental performance, attrition tracking and
+recruitment analysis in a three-page Power BI report. By combining KPI
+monitoring with interactive visualizations, the project demonstrates how
+employee data can be explored to identify patterns, investigate HR
+questions and support informed workforce decisions.
