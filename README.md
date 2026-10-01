@@ -31,19 +31,57 @@ information.
 
 ## Tools & Technologies
 
-  -----------------------------------------------------------------------
-  **Tool**                            **Purpose**
-  ----------------------------------- -----------------------------------
-  **Microsoft Power BI**              Dashboard development and data
-                                      visualization
+| **Tool** | **Purpose** |
+|---|---|
+| **Microsoft Power BI** | Dashboard development and data visualization |
+| **DAX** | KPI and analytical measure calculations |
+| **Power Query** | Data loading, cleaning and transformation |
+| **CSV** | Source dataset |
+| **Data Visualization** | Workforce and attrition analysis |
 
-  **DAX**                             KPI and analytical measure
-                                      calculations
+## Key KPIs
 
-  **Power Query**                     Data loading, cleaning and
-                                      transformation
+  **KPI**                         **Value**
+  ---------------------------- ------------
+  **Total Employees**               **311**
+  **Active Employees**              **207**
+  **Attrition Rate**             **33.44%**
+  **Average Tenure**               **9.88**
+  **Total Terminations**            **104**
+  **Voluntary Terminations**         **88**
+  **Terminated for Cause**           **16**
 
-  **CSV**                             Source dataset
+  ## Questions / Analysis Areas
 
-  **Data Visualization**              Workforce and attrition analysis
-  ----------------------------------------------------------------------
+-   How many employees are in the workforce, and how many are currently
+    active?
+-   What is the distribution of employees by department and job
+    position?
+-   How is the workforce distributed by gender, age group, and marital
+    status?
+-   How are performance ratings distributed across employees?
+-   How do employee satisfaction and engagement vary by department?
+-   What is the overall attrition or termination rate?
+-   Which departments have higher termination percentages?
+-   How have terminations changed over time?
+-   What are the recorded reasons for employees leaving?
+-   Which recruitment sources appear most frequently in the dataset?
+
+-   ## Project Process
+
+1.  **Data Loading** --- Imported the HR employee dataset into Power BI.
+2.  **Data Preparation** --- Reviewed fields, data types, missing
+    values and data consistency in Power Query.
+3.  **Data Transformation** --- Prepared employee, department,
+    employment status, termination and recruitment fields for analysis.
+4.  **DAX Measures** --- Created measures for workforce totals, active
+    employees, terminations and rates used in KPI cards and visuals.
+5.  **Workforce Analysis** --- Built demographic, department,
+    job-position, performance, satisfaction and engagement visuals.
+6.  **Attrition Analysis** --- Compared termination rates by department
+    and explored termination trends and reasons for leaving.
+7.  **Dashboard Development** --- Organized the report into three pages
+    with consistent visual styling and interactive slicers.
+8.  **Dashboard Design** --- Applied a dark navy theme, blue accents,
+    white visual backgrounds and a consistent layout to improve
+    readability.
