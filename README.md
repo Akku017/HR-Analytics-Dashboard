@@ -41,15 +41,17 @@ information.
 
 ## Key KPIs
 
-  **KPI**                         **Value**
-  ---------------------------- ------------
-  **Total Employees**               **311**
-  **Active Employees**              **207**
-  **Attrition Rate**             **33.44%**
-  **Average Tenure**               **9.88**
-  **Total Terminations**            **104**
-  **Voluntary Terminations**         **88**
-  **Terminated for Cause**           **16**
+| KPI | Value |
+|---|---:|
+| Total Employees | 311 |
+| Active Employees | 207 |
+| Attrition Rate | 33.44% |
+| Average Tenure | 9.88 |
+| Total Terminations | 104 |
+| Voluntary Terminations | 88 |
+| Terminated for Cause | 16 |
+
+
 
   ## Questions / Analysis Areas
 
@@ -85,3 +87,14 @@ information.
 8.  **Dashboard Design** --- Applied a dark navy theme, blue accents,
     white visual backgrounds and a consistent layout to improve
     readability.
+
+    
+## Dashboard
+### Page 1 --- HR Analytics | Overview <br/>
+https://github.com/Akku017/HR-Analytics-Dashboard/blob/main/page%201%20HR%20Analytics%20%20Overview.png
+
+### Page 2 --- HR Analytics | Employee Analysis<br/>
+https://github.com/Akku017/HR-Analytics-Dashboard/blob/main/page%202%20Employee%20Analysis.png
+
+### Page 3 --- HR Analytics | Attrition & Recruitment<br/>
+https://github.com/Akku017/HR-Analytics-Dashboard/blob/main/page%203%20%20Attrition%20%26%20Recruitment.png
